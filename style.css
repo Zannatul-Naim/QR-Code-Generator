@@ -1,0 +1,31 @@
+body {
+    background-image: linear-gradient(to bottom, #051937, #12335a, #1c507f, #236fa6, #2490cd);
+}
+#head-2 {
+    text-align: center;
+    color:aliceblue;
+}
+#img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+#size, textarea{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#submit {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #1cd088; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 15px;
+        font-size: 16px;
+}
